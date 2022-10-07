@@ -1,0 +1,22 @@
+body{
+    background-color: chocolate;
+}
+header{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+nav{
+    display:contents;
+    justify-content: end;
+    align-items: center;
+    width: 100px;
+}
+.logo img{
+width: 100px;
+height: 100px;
+}
+.menuss{
+    background-color: black;
+    col
+}
