@@ -1,5 +1,6 @@
 body{
-    background-color: chocolate;
+    background-image: url(img/fan.jfif);
+    background-size: cover;
 }
 header{
 display: flex;
@@ -62,4 +63,8 @@ grid-row: 2/3;
 .sandwich{
     grid-column: 3/4;
     grid-row: 1/2;
+}
+.asd{
+    grid-column:2/3 ;
+    grid-row: 3/4;
 }
